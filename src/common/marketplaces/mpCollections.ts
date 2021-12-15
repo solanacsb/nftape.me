@@ -12,6 +12,9 @@ export const collections = {
   DRGNjvBvnXNiQz9dTppGk1tAsVxtJsvhEmojEfBU3ezf: {
     ME: 'boryoku_dragonz',
   },
+   64tkPodY5e16hHMTk2gky4aGMcg6KDBejVVnAH1MPheL: {
+    ME: 'dapper_ducks',
+  },
   BHVPUojZvH2mWo5T6ZCJQnyqMTe4McHsXGSJutezTPGE: {
     SA: 'saibagang',
     ME: 'saiba_gang',
